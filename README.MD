@@ -2,7 +2,7 @@
 Disclaimer: This is not a project for stealing or reselling or redistributing Line stickers.
 
 -----
-
+![LINE Stickers](https://raw.githubusercontent.com/jonathanlawhh/line-sticker-downloader/main/cover.png)
 LINE (the chat app) has a huge library of stickers that people really like and are unfortunately not available on Whatsapp.
 
 To name a few:
